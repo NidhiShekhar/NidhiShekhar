@@ -18,11 +18,11 @@
 - Languages : Python, C, Java, SQL, JavaScript
 - Frameworks : React, Flask, FastAPI, Streamlit, Nodes.js, React Native, SpringBoot
 - Databases : PostgreSQL, MariaDB, MongoDB, MySQL
-- DevOps & Infra : Docker, Kubernetes, AWS EC2, CDN
+- DevOps & Infra : Docker, Kubernetes, AWS EC2, nginx
 - Monitoring tools : Prometheus, Grafana
 - Version Control : Git, GitHub
 - Embedded and hardware : ESP32, ArduinoIDE
-- Design & UI : HTML, CSS, GIMP 
+- Design & UI : HTML, CSS, GIMP, Canva
 
 ## Contact Me
 
