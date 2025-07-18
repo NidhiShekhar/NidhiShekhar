@@ -9,11 +9,6 @@
   </a>
 </p>
 
-## About Me
-- 4th year Computer Science undergraduate at People's Education Society (PES) University, Bengaluru
-- Fun fact: I have a junior diploma in Bharatnatyam and a senior diploma in Kathak. I am also classically trained in Hindustani music :)
-
-
 ## Tools & Technologies
 - Languages : Python, C, Java, SQL, JavaScript
 - Frameworks : React, Flask, FastAPI, Streamlit, Nodes.js, React Native, SpringBoot
@@ -24,6 +19,10 @@
 - Embedded and hardware : ESP32, ArduinoIDE
 - Design & UI : HTML, CSS, GIMP, Canva
 
+## About Me
+- 4th year Computer Science undergraduate at People's Education Society (PES) University, Bengaluru
+- Fun fact: I have a junior diploma in Bharatnatyam and a senior diploma in Kathak. I am also classically trained in Hindustani music :)
+  
 ## Contact Me
 
 <p align="center">
