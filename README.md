@@ -11,7 +11,7 @@
 
 ## Tools & Technologies
 - Languages : Python, C, Java, SQL, JavaScript
-- Frameworks : React, Flask, FastAPI, Streamlit, Nodes.js, React Native, SpringBoot
+- Frameworks : React, Flask, FastAPI, Streamlit, Node.js, React Native
 - Databases : PostgreSQL, MariaDB, MongoDB, MySQL
 - DevOps & Infra : Docker, Kubernetes, AWS EC2, nginx
 - Monitoring tools : Prometheus, Grafana
