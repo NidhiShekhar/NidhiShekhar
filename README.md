@@ -1,13 +1,4 @@
 <h1 align="center">Hello I'm Nidhi Shekhar! </h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5c6b81a-e4c6-4537-b59d-29e7b94ad496" width="90" alt="Meow" />
-</p>
-
-<p align="center">
-  <a href="https://portfolio-nidhi-shekhar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Click to see my portfolio-%23FFC0CB?style=for-the-badge&logo=star&logoColor=white" alt="Portfolio link" />
-  </a>
-</p>
 
 ## Tools & Technologies
 - Languages : Python, C, Java, SQL, JavaScript
