@@ -1,10 +1,11 @@
 <h1 align="center">Hello I'm Nidhi Shekhar! </h1>
 
 ## Tools & Technologies
-- Languages : Python, C, Java, SQL, JavaScript
-- Frameworks : React, Flask, FastAPI, Streamlit, Node.js, React Native
-- Databases : PostgreSQL, MariaDB, MongoDB, MySQL
-- DevOps & Infra : Docker, Kubernetes, AWS EC2, nginx
+- Languages : Python, C, Java, SQL, JavaScript, Typescript, Kotlin
+- Frameworks : React, Flask, FastAPI, Streamlit, Node.js, React Native, Express.js
+- Platforms and tools : Android studio and SDK, Atlassian Cloud, Jira Cloud
+- Databases : PostgreSQL, MariaDB, MongoDB, MySQL, Redis
+- DevOps & Infra : Docker, Kubernetes, AWS EC2, nginx, PM2
 - Monitoring tools : Prometheus, Grafana
 - Version Control : Git, GitHub
 - Embedded and hardware : ESP32, ArduinoIDE
