@@ -26,7 +26,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://portfolio-nidhi-shekhar.vercel.app/" target="_blank">
+  <a href="https://dev-nidhi-shekhar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=sparkles&logoColor=white" alt="Portfolio Badge"/>
   </a>
+
+  <a href="https://blog-nidhi-shekhar.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-FFC0CB?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Badge"/>
+</a>
 </p>
