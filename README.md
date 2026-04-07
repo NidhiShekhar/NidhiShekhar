@@ -1,16 +1,17 @@
 <h1 align="center">Hello I'm Nidhi Shekhar! </h1>
 
 ## Tools & Technologies
-- Languages : Python, C, Java, SQL, JavaScript, Typescript, Kotlin
-- Frameworks : React, Flask, FastAPI, Streamlit, Node.js, React Native, Express.js
-- Platforms and tools : Android studio and SDK, Atlassian Cloud, Jira Cloud
+- Languages : Python, C, Java, SQL, JavaScript, Typescript, Kotlin, Dart
+- Frameworks : React, Flask, FastAPI, Streamlit, Node.js, React Native, Express.js, Next.js
+- Platforms and tools : Android studio and SDK, Atlassian Cloud, Jira Cloud, Jira Assets
 - Databases : PostgreSQL, MariaDB, MongoDB, MySQL, Redis
 - DevOps & Infra : Docker, Kubernetes, AWS EC2, nginx, PM2
 - Monitoring tools : Prometheus, Grafana
-- Version Control : Git, GitHub
+- Version Control : Git, GitHub, BitBucket
 - Embedded and hardware : ESP32, ArduinoIDE
 - Design & UI : HTML, CSS, GIMP, Canva
-
+- Testing : K6
+  
 ## About Me
 - 4th year Computer Science undergraduate at People's Education Society (PES) University, Bengaluru
 - Fun fact: I have a junior diploma in Bharatnatyam and a senior diploma in Kathak. I am also classically trained in Hindustani music :)
